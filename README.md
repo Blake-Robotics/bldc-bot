@@ -2,5 +2,5 @@ This a modified version of the source code for Vedder's custom BLDC controller. 
 
 The changes are
 
-The controller can be reset via the CAN interface
-Reading temp data from the motor now works
+*The controller can be reset via the CAN interface
+*Reading temp data from the motor now works
